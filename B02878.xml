@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further reflexion touching St. Austin's mind for the releasement of souls in purgatory</title>
+            <author>Franciscus a Sancta Clara, 1598-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02878</idno>
+            <idno type="STC">Wing D354A</idno>
+            <idno type="STC">ESTC R175908</idno>
+            <idno type="EEBO-CITATION">52212010</idno>
+            <idno type="OCLC">ocm 52212010</idno>
+            <idno type="VID">175638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175638)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2744:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further reflexion touching St. Austin's mind for the releasement of souls in purgatory</title>
+                  <author>Franciscus a Sancta Clara, 1598-1680.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Augustine, --  Saint, Archbishop of Canterbury, d. 604? --  Views on purgatory --  Early works to 1800.</term>
+               <term>Purgatory --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175638:1" rendition="simple:additions"/>
+            <head>A FURTHER RE<g ref="char:EOLhyphen"/>FLEXION touch<g ref="char:EOLhyphen"/>ing St. <hi>Auſtin</hi>'s Mind for the releaſe<g ref="char:EOLhyphen"/>ment of Souls in Purgatory.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN your Notes on my tenth Chapter you take a civil con<g ref="char:EOLhyphen"/>fidence to tell me, that I know St. <hi>Auſtin teſtifies in his time, as yet the queſtion</hi> (of the ſouls deli<g ref="char:EOLhyphen"/>very before the laſt day) <hi>was not agwated, and that each part may <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove either true, or falſe.</hi> I paſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed this over as a ſimple aſſertion,
+<pb n="2" facs="tcp:175638:2"/>not ſtrengthned with any proofs, either from my writings (whence ſhould be grounded, your aſſu<g ref="char:EOLhyphen"/>rance of my knowledge) or from any Text in St. <hi>Auſtin,</hi> which ſhould force me to ſuch an ac<g ref="char:EOLhyphen"/>knowledgment: yet finding theſe words redoubled in your <hi>Religi<g ref="char:EOLhyphen"/>on, and Reaſon,</hi> p. 105. where you ſay <hi>that</hi> St. Auſtin <hi>profeſſes ex<g ref="char:EOLhyphen"/>preſly</hi> (ad Dulcitium Q. 1.) <hi>the queſtion had not yet been handled before this time, but might here<g ref="char:EOLhyphen"/>after, but that he knew not whe<g ref="char:EOLhyphen"/>ther ſide would prove true.</hi> Hence I gave you as to that place a ſhort Declaration of his ſenſe, and of your miſtake, in my <hi>Anſwer</hi> to your notes. But by reaſon you tell the world, that I know this to be St. <hi>Auguſtines</hi> mind, ſome perſwade me, that for truth, St. <hi>Auſtins,</hi> and my own ſake, I am obliged to examine my manu<g ref="char:EOLhyphen"/>ſcripts
+<pb n="3" facs="tcp:175638:2"/>(for my preſent condition give me not opportunity to look into his Works) ſince my memo<g ref="char:EOLhyphen"/>ry may fail in laying up every paſſage of his numerous Volums touching this matter. Hence I of<g ref="char:EOLhyphen"/>fer to you the Texts, which after long perſiſtance in him my for<g ref="char:EOLhyphen"/>mer diligence placed in my pe<g ref="char:EOLhyphen"/>nuary with my faithful obſerva<g ref="char:EOLhyphen"/>tions upon them, that you, &amp; I, may be ſecure of I is mind. He hath this happy priviledge, that all ſides of Chriſtians pretend a <hi>non plus ultra</hi> to his definitive ſen<g ref="char:EOLhyphen"/>tence in matter of controverſies of Religion, and ſurely you, and I, may well be excuſed to referre our ſelves to him, ſince even <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> himſelf deſires all to make him the Generall Umpire in all ſuch occurrences. To the better teaching his mind in his <hi>African</hi> ſtile, I preſume to give theſe pre<g ref="char:EOLhyphen"/>monitories.</p>
+            <pb n="4" facs="tcp:175638:3"/>
+            <p> Firſt in writing ſo many Vo<g ref="char:EOLhyphen"/>lums, wherein various occurren<g ref="char:EOLhyphen"/>ces have occaſioned ſometimes only an enquiring (as he notes upon his ſeaven books upon que<g ref="char:EOLhyphen"/>ſtions on the ſeaven firſt books of Holy Scripture, and upon <hi>Geue<g ref="char:EOLhyphen"/>ſis ad literam</hi> he acknowledges, that there he ſought more then he found, and found more then he confirmed;) ſometimes only a touching as it were incidently, of a queſtion, which is frequent, we cannot in juſtice ſay any ſuch paſſage to ſpeak his deliberate ſenſe, as he himſelf aſſerts in his 111 Epiſtle, but we muſt referre our ſelves to thoſe places where he concluds upon a full Examina<g ref="char:EOLhyphen"/>tion, or <hi>Immoration,</hi> as he calls it <hi>De Praed. Sanctor. C.</hi> 14. if we will faithfully know his mind.</p>
+            <p>Secondly even among thoſe places, where he treats, and con<g ref="char:EOLhyphen"/>cludes
+<pb n="5" facs="tcp:175638:3"/>examinately, there is reſ<g ref="char:EOLhyphen"/>pect to be had to the times of his treating: for as he juſtly de<g ref="char:EOLhyphen"/>mands in his retractations, of his reader, <hi>they muſt give him leave to advance in Learning,</hi> and ther<g ref="char:EOLhyphen"/>fore we ſhall beſt know his mind in his later writings, when as he aſſerts <hi>L.</hi> 2. <hi>de bapt. C.</hi> 3. even of Councels, experience hath con<g ref="char:EOLhyphen"/>firmed former reſults.</p>
+            <p>Thirdly, This (as I conceive) will hold univerſally, except where he himſelf interpoſeth a reſtriction: as when in later Writings he referres the reader, and himſelf to his former deci<g ref="char:EOLhyphen"/>ſions: as in the queſtion we now determine to treat of; in his ſe<g ref="char:EOLhyphen"/>cond queſtion to <hi>Dulcitius</hi> he re<g ref="char:EOLhyphen"/>mits us to himſelf, treating the ſame ſubject to <hi>Paulinus</hi> in his <hi>Care of the dead,</hi> as alſo to <hi>Lau<g ref="char:EOLhyphen"/>rentius,</hi> in his <hi>Enchyridion,</hi> there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:175638:4"/>aſſuredly we ſhall find there his <hi>full Iudgement,</hi> as he calls it, in the Epiſtle cited, eſpecially ſince in his retractations he par<g ref="char:EOLhyphen"/>ticularly owneth theſe three books, as his own without any correction.</p>
+            <p>Laſtly, It is very obſervable for the clearer and ſurer under<g ref="char:EOLhyphen"/>ſtanding of his ſence in ſome points, collateral to our preſent queſtion that he much ſerved himſelf of <hi>platoes</hi> principles; eſ<g ref="char:EOLhyphen"/>pecially touching abſtracted ſub<g ref="char:EOLhyphen"/>ſtances, as Angels and ſeparate ſouls, in conſequence whereof he formeth many reſolutions, which may ſometimes refer to our pre<g ref="char:EOLhyphen"/>ſent purpoſe. I give impregna<g ref="char:EOLhyphen"/>ble inſtances in my <hi>Syſteme, C.</hi> 45. I could profuſely proſecute it, if it were neceſſary. But as to <hi>Pla<g ref="char:EOLhyphen"/>toes</hi> doctrine touching only tem<g ref="char:EOLhyphen"/>poral puniſhments after this life,
+<pb n="7" facs="tcp:175638:4"/>he excellently refutes <hi>de Civit,</hi> L. 21. and elſe where.</p>
+            <p>As to the firſt queſtion of <hi>Dul<g ref="char:EOLhyphen"/>citius,</hi> whereon you ground your certainty, he referres him to two former books, the one of <hi>Faith,</hi> and <hi>VVorks;</hi> the other of <hi>Faith, Hope and Charity,</hi> which he o<g ref="char:EOLhyphen"/>therwiſe calls his <hi>Euchyridion</hi> to <hi>Laurentius.</hi> His queſtion was whe<g ref="char:EOLhyphen"/>ther ſuch who committed any ſins after Baptiſme, ſhould ever come out of Hell: that is whether dy<g ref="char:EOLhyphen"/>ing in ſin they ſhall be ſaved; which doth not touch our preſent difficulty: yet ſo for as it doth relate to us I gave you St. <hi>Auſtins</hi> anſwer, which was out of a pro<g ref="char:EOLhyphen"/>bable interpretation of the Apo<g ref="char:EOLhyphen"/>ſtlr, 1 <hi>Cor.</hi> 13. Namely, that ſuch who committed <hi>levicra peccata,</hi> ſmaller ſins which he interprets by <hi>wood, hay, and ſtubble,</hi> ſhould ſuffer puniſhments eitheir in this
+<pb n="8" facs="tcp:175638:5"/>world, or in the next; and ſo be ſaved, but not thoſe greater tranſ<g ref="char:EOLhyphen"/>greſſions without repentance: where you ſee all that he ſays, re<g ref="char:EOLhyphen"/>lates to St. <hi>pauls</hi> text, and not at all to a delivery out of Purgatory before the laſt day, or an eaſing them by help of the Church, <hi>&amp;c.</hi> which is one queſtion he treats the ſame matter <hi>de civ. l.</hi> 21. <hi>c.</hi> 16 &amp; elſwhere, &amp; expounds the Apoſtle, as here that it may import tempo<g ref="char:EOLhyphen"/>rary puniſhment, <hi>ſive ibi tantum, ſive hic &amp; ibi, ſive ideo hic, ut non ibi.</hi> Where you ſee he aſſerts a puniſhment but he conceives St. <hi>Pauls</hi> words my a ſignifie each ſort of temporary purgation.</p>
+            <p>I ſee you lookd on this place with o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, or elſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou read them not in irely, otherwiſe you would not urge <hi>Dulcitius</hi> his firſt que<g ref="char:EOLhyphen"/>ſtion, which either not at all, or elſe very remotely toucheth your deſign.</p>
+            <pb n="9" facs="tcp:175638:5"/>
+            <p> The ſecond queſtion indeed which you touch not, hath more apparence, for there he asketh down right, <hi>
+                  <g ref="char:V">Ʋ</g>trum oblatio quae fit pro quieſcentibus,</hi> &amp;c. Whether oblations for the dead, avail any thing for their ſoul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Whereunto he firſt brings the opinion of o<g ref="char:EOLhyphen"/>thers who hold that if any help could be procured for the dead, they thought it might be more effectual for themſelves; but as for his own judgement he referres him to his two books which I named before, where he is very poſitive, and clear for the ſouls relief by prayers, Almes-deeds, Divine Sacrifices, &amp;c. In caſe they died with true repentance, which upon all occaſions he in<g ref="char:EOLhyphen"/>culcates conſtantly by reaſon of ſome, who would have faith in Chriſt to ſuffice alone.</p>
+            <p>Its true that in his <hi>Enchyridion
+<pb n="10" facs="tcp:175638:6"/>c.</hi> 69. he uſeth theſe words: <hi>Tale etiam aliquid poſt hanc vitam fieri inrcedibile non eſt: &amp; utrum ita ſit, quaeri poteſt: &amp; aut inveniri, aut latere, non nullos fideles per ignem quendam purgatorium, quan<g ref="char:EOLhyphen"/>to magis minuſve bona pereuntia dilexerunt, tanto tardius, citiuſve ſalvari, &amp;c.</hi> Here he ſpeaks the Churches doctrine, and our an<g ref="char:EOLhyphen"/>ſwer accurately to each particu<g ref="char:EOLhyphen"/>lar, and ſurely tells us what was the ſenſe of Chriſtians of his time in our controverſie; but ſeems not ſo certain, as to the manner of puniſhment, whether by fire, <hi>&amp;c.</hi>
+            </p>
+            <p>It is evident indeed, that firſt he relates to the Apoſtles <hi>obſcure</hi> words, as he calls them, out of which he conceives it may not incredibly be inferred, that after this life there are ſuch fiery Pur<g ref="char:EOLhyphen"/>gations, out of which ſome ſoon<g ref="char:EOLhyphen"/>er, others later, arrive to ſalva<g ref="char:EOLhyphen"/>tion.
+<pb n="11" facs="tcp:175638:6"/>He puts his aſſertion in that weak modality of <hi>not being incre<g ref="char:EOLhyphen"/>dible,</hi> not upon the ſooner, and later being ſaved, which is our queſtion, but upon their paſſage by fire, which to this day hath not the ſame certainty with the former. This is plain, for that, <hi>Tale aliquid</hi> immediately applies to thoſe words of the Apoſtle.</p>
+            <p>Again he ſpeaks not at all of the <hi>Tenet,</hi> as it is <hi>a parterei,</hi> but as it is deducible out of St. <hi>Paul</hi> by reaſon of the obſcurity of the context. He ſaith further, that there may be excuſable ignorance in reſpect of this, or any other determinate manner of puniſh<g ref="char:EOLhyphen"/>ment in Purgatory, for as much as can be evidently gathered from that Text, which is a great Truth.</p>
+            <p>But as to the thing it ſelf, that he did not call in queſtion at all
+<pb n="12" facs="tcp:175638:7"/>the certainty of preſent relief by prayers, and almes, in caſe they merited in their life time to be ſo helped, is moſt evident by what he ſolemnly and finally teacheth in his <hi>Ch.</hi> 110. which is perfectly contrary to what you would have him teach here, neither could he ſo groſly forget, what ſo ſoon be<g ref="char:EOLhyphen"/>fore he had taught his words are: <hi>Neque negandum eſt defunctorum animas pietate ſuorum viventiam relevari; cum pro illis ſacrificium mediatoris effertur, vel eleemoſynae in Eccleſia fiunt, ſeu eis haec pro<g ref="char:EOLhyphen"/>ſunt, qui cum viverent, ut haee ſibi po tea prodeſſe poſſent meruerunt,</hi> &amp;c.</p>
+            <p>Its not lawful to deny, that the ſouls of the dead are caſed by the piety of the living, when the ſa<g ref="char:EOLhyphen"/>crifice of our Mediator is offer'd or Almes in the Church are done but theſe things profit ſuch, who
+<pb n="13" facs="tcp:175638:7"/>they lived, merited to have them afterward to profit them.</p>
+            <p>This is his reſolution of our queſtion: to which he refer'd <hi>Dulcitius,</hi> and this clearly ex<g ref="char:EOLhyphen"/>pounds the former words, where you muſt obſerve (to prevent your cavit) that he ſayd, they receive their helps <hi>cum pro illis,</hi> &amp;c. even then when the Holy ſacrifice is offer'd for them, it is not there<g ref="char:EOLhyphen"/>fore at Dooms-day, nor at the firſt ſeparation of their ſouls, <hi>&amp;c.</hi> Both which, and only which you aſſert, contrary to him.</p>
+            <p>As to that other excellent work of <hi>the care of the dead,</hi> which is to be prefer'd before all his o<g ref="char:EOLhyphen"/>ther works, as to this matter, by reaſon it is deſigned for it, and <hi>ex profeſſo</hi> there handled; I gave you the marrow of it in my re<g ref="char:EOLhyphen"/>ſult, and nothing can be more home, for clean thorough the
+<pb n="14" facs="tcp:175638:8"/>book he teaches <hi>that actual benefit profit, help, advantage, availement, and reſt,</hi> is procured for the ſouls, and he ſpeakes condiſtin<g ref="char:EOLhyphen"/>ctively of the ſoul, as ſeparated from the body, as when the body is dead, and he ſaies, that then it receives <hi>ſuccour</hi> which is the full reſolution of our controverſie; and he refer'd <hi>Dulcitius</hi> to theſe two places for it.</p>
+            <p>Againſt this ſome peradventure would bring him in his twentith book of the City of God, where <hi>Ch.</hi> 15. comparing the ſaints of the old Law, with thoſe of the New, he ſays <hi>non abſurde credi videtur, hos in locis quidem a tor<g ref="char:EOLhyphen"/>mentis impiorum remotiſſimis, ſed tamen apud inferos fuiſſe, donec eos inde ſanguis Chriſti, &amp; ad ea loca deſcenſus erueret: profecto de<g ref="char:EOLhyphen"/>inceps boni fideles effuſo illo pretio jam redempti, prorſus inferos ne<g ref="char:EOLhyphen"/>ſciunt,</hi>
+               <pb n="15" facs="tcp:175638:8"/>&amp;c. This would ſeem to deny all ſtay in Purgatory ſince Chriſts paſſion for good Chriſti<g ref="char:EOLhyphen"/>ans, who he ſays know not Hell, under which Notion he explaines himſelf to comprehend any ſuch place of detention.</p>
+            <p>But it is evident, that he ſpeaks only of <hi>Saints</hi> under the Goſpell, who are not detained in any In<g ref="char:EOLhyphen"/>fernall place, as the <hi>Saints</hi> in the time of the Law, but go preſently to Heaven, which is conſequent to all other places, where he puts only a middle ſort of Chriſtians, not the Saints in Purgatory.</p>
+            <p>Others may bring him <hi>L.</hi> 20. <hi>De Civit. c.</hi> 25. where ſpeaking of certain Purgatory puniſhments, and the Day of Judgement out of the <hi>Prophets, Malachy</hi> and <hi>Iſaiah,</hi> he concludes; <hi>Verum iſta Quaeſtio de paenis Purgateriis, ut diligen<g ref="char:EOLhyphen"/>tius pertractetur, in aliud tempus
+<pb n="16" facs="tcp:175638:9"/>differend a eſt;</hi> where he ſeems not to aſſert with confidence: but it is evident he ſpeaks in relation to a harder Queſtion, of the manner of purgation at the laſt Day, be<g ref="char:EOLhyphen"/>fore the eternal ſeparation of the Juſt from the Wicked in the day of Judgement. For thoſe Chapters wholy treat of that, where every where he aſſerts temporary puni<g ref="char:EOLhyphen"/>ſhments after this life to Some, and to Others eternal, againſt the Platoniſts, who will have none e<g ref="char:EOLhyphen"/>ternall, but all emendatory, as they, and he ſpeaks; ſometimes indeed he inclines to their Tenet of the manner of puniſhment, and out of that ground he ſpeaks du<g ref="char:EOLhyphen"/>biouſly, which others not well ac<g ref="char:EOLhyphen"/>quainted with him, have miſinter<g ref="char:EOLhyphen"/>preted, as if he had doubted of the puniſhment itſelf which he, &amp; they aſſert, as an undoubted Principle.</p>
+            <p>Neither doth he aſſert, as you
+<pb n="17" facs="tcp:175638:9"/>would have him, only temporary puniſhments <hi>in ipſo judicio;</hi> for if yougo to the next book, which is 21. <hi>cap,</hi> 13. when he gives you his anſwer to that difficulty, which he propounded here, and differ'd his anſwer to that place, he ſayes, that <hi>Temporarias poenas alii in hac vita tantum, alii poſt mortem, alii &amp; nunc, &amp; tunc, verum tamen</hi> ante Judicium illud <hi>ſeveriſſimum, noviſ<g ref="char:EOLhyphen"/>ſimumque, patiuntur;</hi> ſo that the main ſuffering of purgatory is be<g ref="char:EOLhyphen"/>fore the day of Judgement, which wholy deſtroys you, though he denies not, that ſome ſuffer <hi>in ipſo Judicio.</hi>
+            </p>
+            <p>In further proceſs of this matter <hi>c.</hi> 14. he gives his full Solution of the Churches prayers for them and of their releaſe upon their prayers in theſe words: <hi>Pro de<g ref="char:EOLhyphen"/>functis quibuſdam, vel ipſius Eccle<g ref="char:EOLhyphen"/>ſiae, vel quorundam piorum exaudi<g ref="char:EOLhyphen"/>tur
+<pb n="18" facs="tcp:175638:10"/>oratio,</hi> &amp;c. he treats largely of the effects of Church prayers and (as you ſee) he evidently aſſerts, that upon the Churches, &amp; good peoples prayers, ſuch Dead per<g ref="char:EOLhyphen"/>ſons are releaſed; for he ſaies, that their prayers are granted, <hi>exau<g ref="char:EOLhyphen"/>ditur Oratio.</hi> Now all know, that the prayers are tendred to releſe them preſently: in conformity to this, he teaches <hi>c.</hi> 16. <hi>Purgatorias autem paenas nullas futuras opine<g ref="char:EOLhyphen"/>tur, niſi aute ultimum Judicium.</hi> Here can be no reply, as to his judgement. And indeed this book <hi>De Civitatc</hi> added to the former book, we mentioned before, ſpeak clearly, and of ſet purpoſe, of our matter, and therefore give us his full judgement.</p>
+            <p>Some may object, <hi>l.</hi> 22. <hi>c.</hi> 25. <hi>de Civitate: Si in regni dei poſſesſione nunquam erunt, aeterno ſupplicio tenebuntur, quia non eſt locus me<g ref="char:EOLhyphen"/>dius,
+<pb n="19" facs="tcp:175638:10"/>&amp;c.</hi> As if he did not admit any middle place of Purgatory: but it is evident, that he will not have any eternal middle place, as you know the Pelagians would have for ſome; to the ſame tenor he ſpeaks in other places. For a further aſſurance of his mind, I muſt needs adde the ninth book of his confeſſions, which he never retracted, but alwaies confirmed: in this place, he tells the practiſe of the whole Church in his Mo<g ref="char:EOLhyphen"/>ther. <hi>Tantum illud vos rogo, ut ad domini altare memineritis mei, vbi fueritis,</hi> &amp;c. Where ſhe beggs aſſiſtance at our Lords Altar. Where after he hath told the manner of her Chriſtian burial, anſwerable to the preſent pra<g ref="char:EOLhyphen"/>ctice of Holy Church, he falls a praying for his Mother. <hi>Nunc pro peccatis matris meae deprecor te, exaudi me per Chriſtum,</hi> &amp;c.
+<pb n="20" facs="tcp:175638:11"/>
+               <hi>Credo quod jam feceris, quod te rogo: ſed voluntaria oris mei pro<g ref="char:EOLhyphen"/>ba Domine,</hi> &amp;c.</p>
+            <p>Here we ſee, what St. <hi>Auguſtine</hi> prayed for, and in this what St. <hi>Monica</hi> begd of him, that her ſins might preſently be forgiven her, and conſequently her ſoul receiv<g ref="char:EOLhyphen"/>ed to Heaven. <hi>Inſpira domine ſervis tuis fratribus meis, quibus &amp; voluntate, &amp; corde, &amp; literis, ſer<g ref="char:EOLhyphen"/>vie, ut quotquot haec legerint, me<g ref="char:EOLhyphen"/>minerint ad altare tuum Monicae famulae tuae, cum Patricio quondam ejus conjuge,</hi> &amp;c.</p>
+            <p>He hoped, that what he begged was already graunted, yet he prayed on and beg'd others to do the ſame for her, and all was to bring her to Heaven: and he beggs, that it may be granted him for Chriſts ſake; that is a <hi>preſent</hi> forgiveneſs of her ſins, therefore he ſays, his Mother <hi>knew</hi> upon the Alter, <hi>diſpenſarii victimam ſanctam, qua deletum eſt Chyrographum, quod erat contra nos.</hi> This was there<g ref="char:EOLhyphen"/>fore her, and his prayer, that by applica<g ref="char:EOLhyphen"/>tion
+<pb n="21" facs="tcp:175638:11"/>of Chriſts Holy Sacrifice, her ſins night be blotted out upon their prayers. Doth not this evidently witneſſe their hopes of a preſent releaſe? for he belie<g ref="char:EOLhyphen"/>red, that God had already granted what he prayed for, that is, he believed that ſhe was already in Heaven, and yet he prayed for it. His prayers were then to get her to heaven preſently, which he believed was all ready graunted. He did not then pray for her going to Heaven, at Dooms-day. This admits no reply as to his mind, and truely of the whole Church: for he ſpeaks no ſingularity; &amp; hence deſires all men to joyn with him: Here we alſo ſee that they all believed <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th the preſent Church, Chriſt himſelf to be offer'd upon the altar for our ſins.</p>
+            <p>Read him upon the 48 <hi>Pſalme,</hi> where he ſhews the ſenſe and practiſe of thoſe <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes, read him alſo upon the 80 <hi>Pſal.</hi> to the ſame purpoſe, only &amp; alwaies re<g ref="char:EOLhyphen"/>quiring, that the faithful dye in true Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>In his 64 Epiſtle he tels, and examines <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cuſtome of the faithful, to make offe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings up at the graves of the dead, where he ſpeaks thus: <hi>Oblationes pro ſpiritibus
+<pb n="22" facs="tcp:175638:12"/>dormientium, quas vere aliquid adjuvare credendum eſt, ſuper ipſas memorias non ſint ſumptuoſa,</hi> &amp;c. He would have them to ſavour of Charity, not Vanity, and the Money which was offered there, was preſently to be given to the poor. Cer<g ref="char:EOLhyphen"/>tainly he never dreamed of your ſpecu<g ref="char:EOLhyphen"/>lation of the preventiall helps at their deaths, by thoſe future Almes, much leſs of an expectation till the laſt day, when he ſimply ſpeaks, that the ſouls have ſome help by them, ſurely not before the Almes were diſtributed.</p>
+            <p>In fine, that no rationall perſon may hereafter doubt of St. <hi>Auſtins</hi> mind as to pleſent releaſe upon prayers, <hi>&amp;c.</hi> Let him read him <hi>L.</hi> 1. <hi>De anima &amp; ejus o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>gine, c.</hi> 10. Which he acknowledgeth in his Retractione. <hi>De fratre autem S. Perpetuae Dinocrate, pro quo illa immi<g ref="char:EOLhyphen"/>nente Martyrio creditur exaudita. ut à poenis transferretur ad requiem: quis ſcit utrum puer ille poſt Baptiſmum, perſecu<g ref="char:EOLhyphen"/>tionis tempore, à patre impio per idolatri<g ref="char:EOLhyphen"/>am fuerit alienatus à Chriſto, propter quod in damnationem mortis ierit, nec inde niſi pro Chriſto moriturae ſororis pre<g ref="char:EOLhyphen"/>cibus donatus exierit,</hi> &amp;c.</p>
+            <pb n="23" facs="tcp:175638:12"/>
+            <p> Here is firſt evident, that it was belie<g ref="char:EOLhyphen"/>ved, that upon St. Perpetua the Martys, prayers, juſt before her death, offer'd for her brother, he was transferr'd from his pains to reſt. Here is the full Solution of our whole Controverſie, conformable to his own and the Churches Doctrine, for the Souls delivery before the laſt day.</p>
+            <p>Secondly, here is another paſſage which in my Anſwer to your Notes I ſaid he would not deny, evidently op<g ref="char:EOLhyphen"/>goſite to your undervaluing St. <hi>Grego<g ref="char:EOLhyphen"/>ries,</hi> St. <hi>Bedes</hi> and St. <hi>Damaſcens</hi> Relati<g ref="char:EOLhyphen"/>ons of ſome ſouls relieved out of Hell by Saints prayers; which (as you ſee) he holds it poſſible to be obtained, though he teaches every where, that according to Gods ordinary Laws, there is no hope of any ſort of Heaven without Baptiſm, againſt the Pelagians; and particularly againſt <hi>Vincentius,</hi> who would, <hi>jugiter offerri Sacrificia:</hi> that continually Sa<g ref="char:EOLhyphen"/>crifices ſhould be offered for Children dead without Baptiſme, that is, for Souls in Hell.</p>
+            <p>I purpoſely omit other paſſages in many places, as being not ſo full, as I have omitted other Objections leſſe urgent.</p>
+            <pb n="26" facs="tcp:175638:13"/>
+            <p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>the degrees of acceptance of future prayers, for the ſoul is purely ground<g ref="char:EOLhyphen"/>leſs. Laſtly whatſoever this relief is in reality (though in apprehenſion you put it ſooner) it is not to be had till Dooms day. I propound it to your fur<g ref="char:EOLhyphen"/>ther reflection, whether the whole machine be not inſignificative as to the real ſenſe of the Church &amp; of all Chriſtians in their prayers.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your faithful Servant, <hi>F. D.</hi>
+               </signed>
+               <dateline>
+                  <date>March, 26.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
